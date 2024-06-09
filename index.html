@@ -76,55 +76,64 @@
   </div>
 
   <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      const playlist = document.getElementById('channel-list');
-      const videoPlayer = videojs('video-player');
+document.addEventListener('DOMContentLoaded', function() {
+    const playlist = document.getElementById('channel-list');
+    const videoPlayer = videojs('video-player');
 
-      // Tutaj należy załadować plik M3U i utworzyć listę kanałów
-      const m3uPlaylistUrl = '1.m3u';
-      fetch(m3uPlaylistUrl)
-        .then(response => response.text())
-        .then(data => {
-          // Przetwarzanie danych z pliku M3U
-          // Tutaj należy utworzyć elementy <li> dla każdego kanału
-          // Przykład:
-          const channels = parseM3U(data);
-          channels.forEach(channel => {
-            const li = document.createElement('li');
-            li.textContent = channel.name;
-            li.addEventListener('click', function() {
-              videoPlayer.src(channel.url);
-              videoPlayer.play();
+    // Funkcja do ładowania listy kanałów z pliku M3U
+    function loadPlaylist(m3uPlaylistUrl) {
+        fetch(m3uPlaylistUrl)
+            .then(response => response.text())
+            .then(data => {
+                const channels = parseM3U(data);
+                channels.forEach(channel => {
+                    const li = document.createElement('li');
+                    li.textContent = channel.name;
+                    li.addEventListener('click', function() {
+                        videoPlayer.src(channel.url);
+                        videoPlayer.play();
+                    });
+                    playlist.appendChild(li);
+                });
+            })
+            .catch(error => {
+                console.error('Błąd podczas pobierania listy kanałów:', error);
             });
-            playlist.appendChild(li);
-          });
-        })
-        .catch(error => {
-          console.error('Błąd podczas pobierania listy kanałów:', error);
-        });
+    }
 
-      // Funkcja do parsowania pliku M3U i uzyskiwania nazw i URL-i kanałów
-      function parseM3U(data) {
-        // Implementacja parsera M3U
-        // Zwraca tablicę obiektów { name: nazwa_kanału, url: url_kanału }
-        // Poniżej znajduje się przykładowa implementacja dla uproszczenia
+    // Funkcja do parsowania pliku M3U i uzyskiwania nazw i URL-i kanałów
+    function parseM3U(data) {
         const lines = data.trim().split('\n');
         const channels = [];
         let name = '';
         let url = '';
         lines.forEach(line => {
-          if (line.startsWith('#EXTINF:')) {
-            // Przykładowe parsowanie nazwy i URL kanału
-            name = line.split(',')[1];
-          } else if (line.startsWith('http')) {
-            // Przykładowe uzyskiwanie URL kanału
-            url = line.trim();
-            channels.push({ name, url });
-          }
+            if (line.startsWith('#EXTINF:')) {
+                name = line.split(',')[1];
+            } else if (line.startsWith('http')) {
+                url = line.trim();
+                channels.push({ name, url });
+            }
         });
         return channels;
-      }
+    }
+
+    // Dodanie opcji "Dodaj własny m3u" na końcu listy
+    const addCustomM3U = document.createElement('li');
+    addCustomM3U.textContent = 'Dodaj własny m3u';
+    addCustomM3U.addEventListener('click', function() {
+        const customM3UUrl = prompt('Wprowadź adres URL do swojego pliku M3U:');
+        if (customM3UUrl) {
+            loadPlaylist(customM3UUrl);
+        }
     });
+    playlist.appendChild(addCustomM3U);
+
+    // Ładowanie domyślnej listy kanałów
+    const defaultM3UPlaylistUrl = '1.m3u';
+    loadPlaylist(defaultM3UPlaylistUrl);
+});
+
   </script>
 </body>
 </html>
