@@ -19,7 +19,7 @@
       height: 100%;
     }
     .playlist {
-      flex: 0 0 300px;
+      flex: 0 0 200px;
       background-color: #1a1a1a;
       padding: 20px;
       color: #ffffff;
@@ -46,15 +46,12 @@
     .channel-slider li:hover {
       background-color: #333333;
     }
-    .search {
-      margin-top: 20px;
+    .search-bar {
+      margin-bottom: 20px;
     }
-    .search input {
-      width: 100%;
-      padding: 8px;
-      border: none;
-      border-radius: 4px;
-      box-sizing: border-box;
+    .search-bar input {
+      width: calc(100% - 10px);
+      padding: 5px;
     }
     .player {
       flex: 1;
@@ -70,9 +67,8 @@
 <body>
   <div class="container">
     <div class="playlist">
-      <h2>Lista kanałów</h2>
-      <div class="search">
-        <input type="text" id="search-input" placeholder="Szukaj...">
+      <div class="search-bar">
+        <input type="text" id="search-input" placeholder="Szukaj kanału...">
       </div>
       <div class="channel-slider">
         <ul id="channel-list">
@@ -92,8 +88,8 @@
   <script>
     document.addEventListener('DOMContentLoaded', function() {
       const playlist = document.getElementById('channel-list');
-      const searchInput = document.getElementById('search-input');
       const videoPlayer = videojs('video-player');
+      const searchInput = document.getElementById('search-input');
 
       // Tutaj należy załadować plik M3U i utworzyć listę kanałów
       const m3uPlaylistUrl = 'https://iptv-org.github.io/iptv/index.m3u';
@@ -107,7 +103,7 @@
           channels.forEach(channel => {
             const li = document.createElement('li');
             li.textContent = channel.name;
-            li.setAttribute('data-category', channel.category); // Dodanie atrybutu z kategorią
+            li.dataset.name = channel.name.toLowerCase(); // Store lowercase name for easier searching
             li.addEventListener('click', function() {
               videoPlayer.src(channel.url);
               videoPlayer.play();
@@ -122,14 +118,13 @@
       // Obsługa wyszukiwania
       searchInput.addEventListener('input', function() {
         const searchTerm = searchInput.value.toLowerCase();
-        const allChannels = playlist.querySelectorAll('li');
-        allChannels.forEach(channel => {
-          const channelName = channel.textContent.toLowerCase();
-          const category = channel.getAttribute('data-category').toLowerCase();
-          if (channelName.includes(searchTerm) || category.includes(searchTerm)) {
-            channel.style.display = 'block';
+        const channelItems = playlist.querySelectorAll('li');
+        channelItems.forEach(item => {
+          const channelName = item.dataset.name || '';
+          if (channelName.includes(searchTerm)) {
+            item.style.display = 'block';
           } else {
-            channel.style.display = 'none';
+            item.style.display = 'none';
           }
         });
       });
@@ -137,28 +132,20 @@
       // Funkcja do parsowania pliku M3U i uzyskiwania nazw i URL-i kanałów
       function parseM3U(data) {
         // Implementacja parsera M3U
-        // Zwraca tablicę obiektów { name: nazwa_kanału, url: url_kanału, category: kategoria_kanału }
+        // Zwraca tablicę obiektów { name: nazwa_kanału, url: url_kanału }
         // Poniżej znajduje się przykładowa implementacja dla uproszczenia
         const lines = data.trim().split('\n');
         const channels = [];
         let name = '';
         let url = '';
-        let category = '';
         lines.forEach(line => {
           if (line.startsWith('#EXTINF:')) {
             // Przykładowe parsowanie nazwy i URL kanału
             name = line.split(',')[1];
-            // Parsowanie kategorii
-            const categoryMatch = line.match(/group-title="([^"]+)"/);
-            if (categoryMatch && categoryMatch.length > 1) {
-              category = categoryMatch[1];
-            } else {
-              category = 'Inne'; // Domyślna kategoria, jeśli nie ma określonej
-            }
           } else if (line.startsWith('http')) {
             // Przykładowe uzyskiwanie URL kanału
             url = line.trim();
-            channels.push({ name, url, category });
+            channels.push({ name, url });
           }
         });
         return channels;
