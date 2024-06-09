@@ -1,457 +1,364 @@
-#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",TVP
-http://chi.bright-sky.click:80/joebk11/247812023/17538
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP1.png",TVP 1
-http://chi.bright-sky.click:80/joebk11/247812023/17544
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP2.png",TVP 2
-http://chi.bright-sky.click:80/joebk11/247812023/17542
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVREPUBLIKA.png",TV REPUBLIKA
-http://chi.bright-sky.click:80/joebk11/247812023/17563
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP3.png",TVP 3
-http://chi.bright-sky.click:80/joebk11/247812023/17541
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPSERIALE.png",TVP SERIALE
-http://chi.bright-sky.click:80/joebk11/247812023/17532
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN.png",TVN
-http://chi.bright-sky.click:80/joebk11/247812023/17552
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN7.png",TVN 7
-http://chi.bright-sky.click:80/joebk11/247812023/17556
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",POLSAT
-http://chi.bright-sky.click:80/joebk11/247812023/17625
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT2.png",POLSAT 2
-http://chi.bright-sky.click:80/joebk11/247812023/17633
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",TV PULS
-http://chi.bright-sky.click:80/joebk11/247812023/17564
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/PULS2.png",PULS 2
-http://chi.bright-sky.click:80/joebk11/247812023/17593
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TV4HD.png",TV4
-http://chi.bright-sky.click:80/joebk11/247812023/17561
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TTV.png",TTV
-http://chi.bright-sky.click:80/joebk11/247812023/17566
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNTURBO.png",TVN TURBO
-http://chi.bright-sky.click:80/joebk11/247812023/17548
-#EXTINF:-1 group-title="Info" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",TVP INFO
-http://chi.bright-sky.click:80/joebk11/247812023/17535
-#EXTINF:-1 group-title="Info" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN24.png",TVN 24
-http://chi.bright-sky.click:80/joebk11/247812023/17558
-#EXTINF:-1 group-title="Info" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN24.png",TVN 24 BIS
-http://chi.bright-sky.click:80/joebk11/247812023/17546
-#EXTINF:-1 group-title="Info" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS.png",POLSAT NEWS
-http://chi.bright-sky.click:80/joebk11/247812023/17620
-#EXTINF:-1 group-title="Info" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS2.png",POLSAT NEWS 2
-http://chi.bright-sky.click:80/joebk11/247812023/17622
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNSTYLE.png",TVN STYLE
-http://chi.bright-sky.click:80/joebk11/247812023/17550
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TV6.png",TV6
-http://chi.bright-sky.click:80/joebk11/247812023/17560
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATPLAY.png",POLSAT PLAY
-http://chi.bright-sky.click:80/joebk11/247812023/17618
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATCAFE.png",POLSAT CAFE
-http://chi.bright-sky.click:80/joebk11/247812023/17631
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUPERPOLSAT.png",SUPER POLSAT
-http://chi.bright-sky.click:80/joebk11/247812023/17579
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT.png",POLSAT RODZINA
-http://chi.bright-sky.click:80/joebk11/247812023/135094
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNFABULA.png",TVN FABULA
-http://chi.bright-sky.click:80/joebk11/247812023/17554
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT.png",POLSAT GAMES
-http://chi.bright-sky.click:80/joebk11/247812023/135087
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALHD.png",CANAL+ 4K
-http://chi.bright-sky.click:80/joebk11/247812023/295665
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CBSEUROPAHD.png",CBS EUROPA
-http://chi.bright-sky.click:80/joebk11/247812023/135019
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CBSREALITY.png",CBS REALITY
-http://chi.bright-sky.click:80/joebk11/247812023/17745
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SCIFIHD.png",SCIFI
-http://chi.bright-sky.click:80/joebk11/247812023/17587
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FOX.png",FX
-http://chi.bright-sky.click:80/joebk11/247812023/17689
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",FX COMEDY
-http://chi.bright-sky.click:80/joebk11/247812023/17691
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/13ULICAHD.png",13 ULICA
-http://chi.bright-sky.click:80/joebk11/247812023/17793
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/E!ENTERTAINMENT.png",E! ENTERTAINMENT
-http://chi.bright-sky.click:80/joebk11/247812023/17725
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVS.png",TVS
-http://chi.bright-sky.click:80/joebk11/247812023/137418
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/STOPKLATKATV.png",STOPKLATKA TV
-http://chi.bright-sky.click:80/joebk11/247812023/17583
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUPERSTACJA.png",SUPER STACJA
-http://chi.bright-sky.click:80/joebk11/247812023/135115
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FOKUSTV.png",FOKUS TV
-http://chi.bright-sky.click:80/joebk11/247812023/17695
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/METRO.png",METRO
-http://chi.bright-sky.click:80/joebk11/247812023/17664
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NOWATV.png",NOWA TV
-http://chi.bright-sky.click:80/joebk11/247812023/17645
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/WP.png",WP
-http://chi.bright-sky.click:80/joebk11/247812023/17525
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",DTX
-http://chi.bright-sky.click:80/joebk11/247812023/124722
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ZOOMTV.png",ZOOM TV
-http://chi.bright-sky.click:80/joebk11/247812023/17524
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBC.png",BBC BRIT
-http://chi.bright-sky.click:80/joebk11/247812023/139865
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBC.png",BBC LIFESTYLE
-http://chi.bright-sky.click:80/joebk11/247812023/139867
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ADVENTUREHD.png",ADVENTURE
-http://chi.bright-sky.click:80/joebk11/247812023/17788
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DOMOHD.png",DOMO+
-http://chi.bright-sky.click:80/joebk11/247812023/135033
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/HGTVHD.png",HGTV
-http://chi.bright-sky.click:80/joebk11/247812023/17681
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KUCHNIAHD.png",KUCHNIA
-http://chi.bright-sky.click:80/joebk11/247812023/17668
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",STUDIO MED TV
-http://chi.bright-sky.click:80/joebk11/247812023/135112
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ROMANCETV.png",ROMANCE TV
-http://chi.bright-sky.click:80/joebk11/247812023/17589
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/LIFETIMEHD.png",LIFETIME
-http://chi.bright-sky.click:80/joebk11/247812023/17666
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUNDANCEHD.png",SUNDANCE
-http://chi.bright-sky.click:80/joebk11/247812023/17581
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MOTOWIZJATVHD.png",MOTOWIZJA
-http://chi.bright-sky.click:80/joebk11/247812023/17660
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POWERTV.png",POWER TV
-http://chi.bright-sky.click:80/joebk11/247812023/17594
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ACTIVEFAMILY.png",ACTIVE FAMILY
-http://chi.bright-sky.click:80/joebk11/247812023/17790
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/VH1.png",VH1
-http://chi.bright-sky.click:80/joebk11/247812023/17527
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPROZRYWKA.png",TVP ROZRYWKA
-http://chi.bright-sky.click:80/joebk11/247812023/17533
-#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",ATM ROZRYWKA TV
-http://chi.bright-sky.click:80/joebk11/247812023/134999
-#EXTINF:-1 group-title="Muzyka" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MTVPOLSKA.png",MTV POLSKA
-http://chi.bright-sky.click:80/joebk11/247812023/17656
-#EXTINF:-1 group-title="Muzyka" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLOTV.png",POLO TV
-http://chi.bright-sky.click:80/joebk11/247812023/17635
-#EXTINF:-1 group-title="Muzyka" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUN.TV.png",4FUN TV
-http://chi.bright-sky.click:80/joebk11/247812023/17795
-#EXTINF:-1 group-title="Muzyka" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATMUSIC.png",POLSAT MUSIC
-http://chi.bright-sky.click:80/joebk11/247812023/135090
-#EXTINF:-1 group-title="Muzyka" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/VOXMUSIC.png",VOX MUSIC TV
-http://chi.bright-sky.click:80/joebk11/247812023/17526
-#EXTINF:-1 group-title="Muzyka" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ESKAROCKTV.png",ESKA ROCK TV
-http://chi.bright-sky.click:80/joebk11/247812023/135043
-#EXTINF:-1 group-title="Muzyka" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",ESKA TV
-http://chi.bright-sky.click:80/joebk11/247812023/17714
-#EXTINF:-1 group-title="Muzyka" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ESKATVEXTRA.png",ESKA TV EXTRA
-http://chi.bright-sky.click:80/joebk11/247812023/17713
-#EXTINF:-1 group-title="Muzyka" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DISCOPOLOMUSIC.png",DISCO POLO MUSIC
-http://chi.bright-sky.click:80/joebk11/247812023/135025
-#EXTINF:-1 group-title="Muzyka" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUNGOLDHITS.png",4FUN GOLD HITS
-http://chi.bright-sky.click:80/joebk11/247812023/17791
-#EXTINF:-1 group-title="Muzyka" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUNDANCE.png",4FUN DANCE
-http://chi.bright-sky.click:80/joebk11/247812023/17792
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATROMANS.png",POLSAT ROMANS
-http://chi.bright-sky.click:80/joebk11/247812023/135095
-#EXTINF:-1 group-title="Muzyka" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",TRACE TV
-http://chi.bright-sky.click:80/joebk11/247812023/135119
-#EXTINF:-1 group-title="Info",CNN
-http://chi.bright-sky.click:80/joebk11/247812023/339766
-#EXTINF:-1 group-title="Muzyka",TLC
-http://chi.bright-sky.click:80/joebk11/247812023/339769
-#EXTINF:-1 group-title="Film",WARNER TV
-http://chi.bright-sky.click:80/joebk11/247812023/339775
-#EXTINF:-1 group-title="Film",ROMANCE TV
-http://chi.bright-sky.click:80/joebk11/247812023/339801
-#EXTINF:-1 group-title="Ogólne",TELE 5
-http://chi.bright-sky.click:80/joebk11/247812023/339811
-#EXTINF:-1 group-title="Ogólne",TBN POLSKA
-http://chi.bright-sky.click:80/joebk11/247812023/339822
-#EXTINF:-1 group-title="Ogólne",CI POLSAT
-http://chi.bright-sky.click:80/joebk11/247812023/339840
-#EXTINF:-1 group-title="Film",POLSAT COMEDY CENTRAL EXTRA
-http://chi.bright-sky.click:80/joebk11/247812023/339841
-#EXTINF:-1 group-title="Film",PARAMOUNT CHANNEL
-http://chi.bright-sky.click:80/joebk11/247812023/339842
-#EXTINF:-1 group-title="Film",AXN SPIN
-http://chi.bright-sky.click:80/joebk11/247812023/339845
-#EXTINF:-1 group-title="Ogólne",BBC FIRST
-http://chi.bright-sky.click:80/joebk11/247812023/339846
-#EXTINF:-1 group-title="Ogólne",AMC
-http://chi.bright-sky.click:80/joebk11/247812023/339847
-#EXTINF:-1 group-title="Film",COMEDY CENTRAL
-http://chi.bright-sky.click:80/joebk11/247812023/339849
-#EXTINF:-1 group-title="Ogólne",EPIC DRAMA
-http://chi.bright-sky.click:80/joebk11/247812023/339851
-#EXTINF:-1 group-title="Ogólne",NOVELA TV
-http://chi.bright-sky.click:80/joebk11/247812023/339854
-#EXTINF:-1 group-title="Muzyka",TLC
-http://chi.bright-sky.click:80/joebk11/247812023/339856
-#EXTINF:-1 group-title="Ogólne",FOOD NETWORK
-http://chi.bright-sky.click:80/joebk11/247812023/339858
-#EXTINF:-1 group-title="Film",KINO POLSKA
-http://chi.bright-sky.click:80/joebk11/247812023/339860
-#EXTINF:-1 group-title="Muzyka",MTV LIVE
-http://chi.bright-sky.click:80/joebk11/247812023/339861
-#EXTINF:-1 group-title="Muzyka",MTV 90
-http://chi.bright-sky.click:80/joebk11/247812023/339863
-#EXTINF:-1 group-title="Muzyka",MTV HITS
-http://chi.bright-sky.click:80/joebk11/247812023/339864
-#EXTINF:-1 group-title="Muzyka",MTV CLUB
-http://chi.bright-sky.click:80/joebk11/247812023/339865
-#EXTINF:-1 group-title="Muzyka",MTV 80
-http://chi.bright-sky.click:80/joebk11/247812023/339866
-#EXTINF:-1 group-title="Info",WPOLSCE.PL
-http://chi.bright-sky.click:80/joebk11/247812023/339872
-#EXTINF:-1 group-title="Ogólne",TV OKAZJE
-http://chi.bright-sky.click:80/joebk11/247812023/339874
-#EXTINF:-1 group-title="Muzyka",4FUN KIDS
-http://chi.bright-sky.click:80/joebk11/247812023/339876
-#EXTINF:-1 group-title="Film",AXN
-http://chi.bright-sky.click:80/joebk11/247812023/339878
-#EXTINF:-1 group-title="Muzyka",BBC EARTH
-http://chi.bright-sky.click:80/joebk11/247812023/339880
-#EXTINF:-1 group-title="Muzyka",E
-http://chi.bright-sky.click:80/joebk11/247812023/339886
-#EXTINF:-1 group-title="Muzyka",MINIMINI+
-http://chi.bright-sky.click:80/joebk11/247812023/339890
-#EXTINF:-1 group-title="Muzyka",MTV 90S
-http://chi.bright-sky.click:80/joebk11/247812023/339892
-#EXTINF:-1 group-title="Dzieci",NOVELAS+
-http://chi.bright-sky.click:80/joebk11/247812023/339896
-#EXTINF:-1 group-title="Muzyka",NUTA.TV
-http://chi.bright-sky.click:80/joebk11/247812023/339897
-#EXTINF:-1 group-title="Muzyka",PLANETE+
-http://chi.bright-sky.click:80/joebk11/247812023/339898
-#EXTINF:-1 group-title="Dzieci",TVP ABC
-http://chi.bright-sky.click:80/joebk11/247812023/339910
-#EXTINF:-1 group-title="Dokument",TVP HISTORIA
-http://chi.bright-sky.click:80/joebk11/247812023/339912
-#EXTINF:-1 group-title="Ogólne",TVP KULTURA
-http://chi.bright-sky.click:80/joebk11/247812023/339914
-#EXTINF:-1 group-title="Ogólne",TVT
-http://chi.bright-sky.click:80/joebk11/247812023/339944
-#EXTINF:-1 group-title="Ogólne",TVT ZGORZELEC
-http://chi.bright-sky.click:80/joebk11/247812023/339945
-#EXTINF:-1 group-title="Ogólne",V EXPLORE
-http://chi.bright-sky.click:80/joebk11/247812023/339946
-#EXTINF:-1 group-title="Muzyka" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KINO.png",KINO POLSKA MUZYKA
-http://chi.bright-sky.click:80/joebk11/247812023/17672
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATFILM.png",POLSAT FILM
-http://chi.bright-sky.click:80/joebk11/247812023/17627
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO1.png",HBO
-http://chi.bright-sky.click:80/joebk11/247812023/17687
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO2.png",HBO 2
-http://chi.bright-sky.click:80/joebk11/247812023/17685
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO3.png",HBO 3
-http://chi.bright-sky.click:80/joebk11/247812023/17683
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNWHITE.png",AXN WHITE
-http://chi.bright-sky.click:80/joebk11/247812023/135004
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNBLACK.png",AXN BLACK
-http://chi.bright-sky.click:80/joebk11/247812023/135001
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALHD.png",CANAL+ SPORT
-http://chi.bright-sky.click:80/joebk11/247812023/17764
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",CANAL+ 1
-http://chi.bright-sky.click:80/joebk11/247812023/17752
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALFAMILY.png",CANAL+ FAMILY
-http://chi.bright-sky.click:80/joebk11/247812023/135009
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALFILM.png",CANAL+ FILM
-http://chi.bright-sky.click:80/joebk11/247812023/17766
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALSERIALE.png",CANAL+ SERIALE
-http://chi.bright-sky.click:80/joebk11/247812023/17762
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ALEKINO.png",ALE KINO+
-http://chi.bright-sky.click:80/joebk11/247812023/17787
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",VOD 205
-http://chi.bright-sky.click:80/joebk11/247812023/139871
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",VOD 208
-http://chi.bright-sky.click:80/joebk11/247812023/139874
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KINO.png",KINO TV
-http://chi.bright-sky.click:80/joebk11/247812023/17670
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXEXTRA.png",FILMBOX EXTRA
-http://chi.bright-sky.click:80/joebk11/247812023/17700
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXPREMIUM.png",FILMBOX PREMIUM
-http://chi.bright-sky.click:80/joebk11/247812023/17697
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXACTION.png",FILMBOX ACTION
-http://chi.bright-sky.click:80/joebk11/247812023/135049
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXFAMILY.png",FILMBOX FAMILY
-http://chi.bright-sky.click:80/joebk11/247812023/17699
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXARTHOUSE.png",FILMBOX ARTHOUSE
-http://chi.bright-sky.click:80/joebk11/247812023/17702
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TNT.png",TNT
-http://chi.bright-sky.click:80/joebk11/247812023/17573
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",CINEMAX
-http://chi.bright-sky.click:80/joebk11/247812023/17739
-#EXTINF:-1 group-title="Film" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CINEMAX2.png",CINEMAX 2
-http://chi.bright-sky.click:80/joebk11/247812023/17741
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TRAVELCHANNEL.png",TRAVEL CHANNEL
-http://chi.bright-sky.click:80/joebk11/247812023/17569
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATDOKU.png",POLSAT DOKU
-http://chi.bright-sky.click:80/joebk11/247812023/17629
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HISTORY.png",HISTORY
-http://chi.bright-sky.click:80/joebk11/247812023/17677
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HISTORY.png",HISTORY 2
-http://chi.bright-sky.click:80/joebk11/247812023/216595
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/DISCOVERYSCIENCE.png",DISCOVERY SCIENCE
-http://chi.bright-sky.click:80/joebk11/247812023/17729
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/DISCOVERY.png",DISCOVERY
-http://chi.bright-sky.click:80/joebk11/247812023/17734
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISCOVERYCHANNEL.png",DISCOVERY LIFE
-http://chi.bright-sky.click:80/joebk11/247812023/135028
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DISCOVERYHISTORIA.png",DISCOVERY HISTORIA
-http://chi.bright-sky.click:80/joebk11/247812023/17733
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DAVINCI.png",DA VINCI
-http://chi.bright-sky.click:80/joebk11/247812023/17736
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/PLANETEHD.png",PLANETE
-http://chi.bright-sky.click:80/joebk11/247812023/17637
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NATGEOPEOPLEHD.png",NAT GEO PEOPLE
-http://chi.bright-sky.click:80/joebk11/247812023/135076
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NGCWILD.png",NATIONAL GEO WILD
-http://chi.bright-sky.click:80/joebk11/247812023/17650
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NGC.png",NATIONAL GEO
-http://chi.bright-sky.click:80/joebk11/247812023/17652
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/WATERPLANET.png",WATER PLANET
-http://chi.bright-sky.click:80/joebk11/247812023/137421
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ID.png",ID
-http://chi.bright-sky.click:80/joebk11/247812023/17675
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATEXPLOREHD.png",POLSAT VIASAT EXPLORE
-http://chi.bright-sky.click:80/joebk11/247812023/135102
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATHISTORY.png",POLSAT VIASAT HISTORY
-http://chi.bright-sky.click:80/joebk11/247812023/17597
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATNATURE.png",POLSAT VIASAT NATURE
-http://chi.bright-sky.click:80/joebk11/247812023/17595
-#EXTINF:-1 group-title="Dokument" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/STARSTV.png",STARS TV
-http://chi.bright-sky.click:80/joebk11/247812023/17584
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FIGHTBOXHD.png",FIGHTBOX
-http://chi.bright-sky.click:80/joebk11/247812023/17705
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPSPORT.png",TVP SPORT
-http://chi.bright-sky.click:80/joebk11/247812023/17530
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/EUROSPORT1.png",EUROSPORT 1
-http://chi.bright-sky.click:80/joebk11/247812023/17711
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/EUROSPORT2.png",EUROSPORT 2
-http://chi.bright-sky.click:80/joebk11/247812023/17709
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SPORTKLUBHD.png",SPORT KLUB
-http://chi.bright-sky.click:80/joebk11/247812023/17585
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORT.png",POLSAT SPORT
-http://chi.bright-sky.click:80/joebk11/247812023/17613
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",POLSAT SPORT PREMIUM 1
-http://chi.bright-sky.click:80/joebk11/247812023/17609
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",POLSAT SPORT PREMIUM 2
-http://chi.bright-sky.click:80/joebk11/247812023/17607
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",POLSAT SPORT PREMIUM 3
-http://chi.bright-sky.click:80/joebk11/247812023/271820
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",POLSAT SPORT PREMIUM 4
-http://chi.bright-sky.click:80/joebk11/247812023/271821
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",POLSAT SPORT PREMIUM 5
-http://chi.bright-sky.click:80/joebk11/247812023/271822
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",POLSAT SPORT PREMIUM 6
-http://chi.bright-sky.click:80/joebk11/247812023/271823
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORTFIGHT.png",POLSAT SPORT FIGHT
-http://chi.bright-sky.click:80/joebk11/247812023/139869
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANAL+SPORTHD.png",CANAL+ SPORT 1
-http://chi.bright-sky.click:80/joebk11/247812023/17754
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANAL+SPORT2HD.png",CANAL+ SPORT 2
-http://chi.bright-sky.click:80/joebk11/247812023/17760
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",CANAL+ SPORT 3
-http://chi.bright-sky.click:80/joebk11/247812023/135014
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORT.png",CANAL+ SPORT 4
-http://chi.bright-sky.click:80/joebk11/247812023/271819
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NSPORT+.png",CANAL+ SPORT 5
-http://chi.bright-sky.click:80/joebk11/247812023/17643
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",ELEVENSPORTS 1
-http://chi.bright-sky.click:80/joebk11/247812023/17723
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",ELEVENSPORTS 2
-http://chi.bright-sky.click:80/joebk11/247812023/17721
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",ELEVENSPORTS 3
-http://chi.bright-sky.click:80/joebk11/247812023/17719
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",ELEVENSPORTS 4
-http://chi.bright-sky.click:80/joebk11/247812023/17717
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/GOLFCHANNEL.png",GOLF CHANNEL
-http://chi.bright-sky.click:80/joebk11/247812023/135060
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORTEXTRA.png",POLSAT SPORT EXTRA
-http://chi.bright-sky.click:80/joebk11/247812023/17617
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",EXTREMESPORTS
-http://chi.bright-sky.click:80/joebk11/247812023/135046
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FIGHTKLUBHD.png",FIGHTKLUB
-http://chi.bright-sky.click:80/joebk11/247812023/135048
-#EXTINF:-1 group-title="Sport" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS.png",POLSAT SPORT NEWS
-http://chi.bright-sky.click:80/joebk11/247812023/17611
-#EXTINF:-1 group-title="Sport",CANAL+ SPORT
-http://chi.bright-sky.click:80/joebk11/247812023/339993
-#EXTINF:-1 group-title="Sport",CANAL+ SPORT 3
-http://chi.bright-sky.click:80/joebk11/247812023/339991
-#EXTINF:-1 group-title="Sport",CANAL+ SPORT 5
-http://chi.bright-sky.click:80/joebk11/247812023/339992
-#EXTINF:-1 group-title="Sport",ELEVENSPORTS 4
-http://chi.bright-sky.click:80/joebk11/247812023/339997
-#EXTINF:-1 group-title="Sport",CANAL+ SPORT 4
-http://chi.bright-sky.click:80/joebk11/247812023/340006
-#EXTINF:-1 group-title="Sport",ELEVENSPORTS 1 4K
-http://chi.bright-sky.click:80/joebk11/247812023/340011
-#EXTINF:-1 group-title="Sport",POLSAT CRIME & INVESTIGATION
-http://chi.bright-sky.click:80/joebk11/247812023/340012
-#EXTINF:-1 group-title="Sport",EUROSPORT EVENT 1
-http://chi.bright-sky.click:80/joebk11/247812023/340017
-#EXTINF:-1 group-title="Sport",EUROSPORT EVENT 2
-http://chi.bright-sky.click:80/joebk11/247812023/340018
-#EXTINF:-1 group-title="Sport",EUROSPORT EVENT 3
-http://chi.bright-sky.click:80/joebk11/247812023/340019
-#EXTINF:-1 group-title="Sport",EUROSPORT EVENT 4
-http://chi.bright-sky.click:80/joebk11/247812023/340020
-#EXTINF:-1 group-title="Sport",EUROSPORT EVENT 5
-http://chi.bright-sky.click:80/joebk11/247812023/340021
-#EXTINF:-1 group-title="Sport",EUROSPORT EVENT 6
-http://chi.bright-sky.click:80/joebk11/247812023/340022
-#EXTINF:-1 group-title="Sport",EUROSPORT EVENT 7
-http://chi.bright-sky.click:80/joebk11/247812023/340023
-#EXTINF:-1 group-title="Sport",EUROSPORT EVENT 8
-http://chi.bright-sky.click:80/joebk11/247812023/340024
-#EXTINF:-1 group-title="Sport",EUROSPORT EVENT 9
-http://chi.bright-sky.click:80/joebk11/247812023/340025
-#EXTINF:-1 group-title="Sport",EUROSPORT EVENT 10
-http://chi.bright-sky.click:80/joebk11/247812023/340026
-#EXTINF:-1 group-title="Sport",EUROSPORT EVENT 11
-http://chi.bright-sky.click:80/joebk11/247812023/340027
-#EXTINF:-1 group-title="Sport",EUROSPORT EVENT 12
-http://chi.bright-sky.click:80/joebk11/247812023/340028
-#EXTINF:-1 group-title="Sport",EUROSPORT EVENT 13
-http://chi.bright-sky.click:80/joebk11/247812023/340029
-#EXTINF:-1 group-title="Sport",EUROSPORT EVENT 14
-http://chi.bright-sky.click:80/joebk11/247812023/340030
-#EXTINF:-1 group-title="Sport",EUROSPORT EVENT 15
-http://chi.bright-sky.click:80/joebk11/247812023/340031
-#EXTINF:-1 group-title="Dzieci" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/COMEDYCENTRALFAMILY.png",COMEDY CENTRAL FAMILY POLSKA
-http://chi.bright-sky.click:80/joebk11/247812023/137415
-#EXTINF:-1 group-title="Dzieci" tvg-logo="https://logo.diamondtv.one/images/logos/USA/BABYTVHD.png",BABY TV
-http://chi.bright-sky.click:80/joebk11/247812023/137302
-#EXTINF:-1 group-title="Dzieci" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATJIMJAM.png",POLSAT JIM JAM
-http://chi.bright-sky.click:80/joebk11/247812023/135089
-#EXTINF:-1 group-title="Dzieci" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/BOOMERANG.png",BOOMERANG
-http://chi.bright-sky.click:80/joebk11/247812023/17772
-#EXTINF:-1 group-title="Dzieci" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/CARTOONNETWORK.png",CARTOON NETWORK
-http://chi.bright-sky.click:80/joebk11/247812023/135018
-#EXTINF:-1 group-title="Dzieci" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISNEYCHANNEL.png",DISNEY XD
-http://chi.bright-sky.click:80/joebk11/247812023/135032
-#EXTINF:-1 group-title="Dzieci" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISNEYCHANNEL.png",DISNEY JUNIOR
-http://chi.bright-sky.click:80/joebk11/247812023/135031
-#EXTINF:-1 group-title="Dzieci" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NICKJUNIOR.png",NICK JR.
-http://chi.bright-sky.click:80/joebk11/247812023/17649
-#EXTINF:-1 group-title="Dzieci" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NICKELODEON.png",NICKELODEON
-http://chi.bright-sky.click:80/joebk11/247812023/17648
-#EXTINF:-1 group-title="Dzieci" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TELETOON.png",TELETOON+
-http://chi.bright-sky.click:80/joebk11/247812023/17577
-#EXTINF:-1 group-title="Dzieci" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MINIMINIHD.png",MINIMINI+
-http://chi.bright-sky.click:80/joebk11/247812023/17662
-#EXTINF:-1 group-title="Dzieci",NICKELODEON UKRAINE PLUTO TV
-http://chi.bright-sky.click:80/joebk11/247812023/339957
-#EXTINF:-1 group-title="Dzieci",CARTOONITO
-http://chi.bright-sky.click:80/joebk11/247812023/339967
-#EXTINF:-1 group-title="Dzieci",NICK JR
-http://chi.bright-sky.click:80/joebk11/247812023/339969
-#EXTINF:-1 group-title="Dzieci",NICKTOONS
-http://chi.bright-sky.click:80/joebk11/247812023/339970
-#EXTINF:-1 group-title="Dzieci",CARTOON NETWORK
-http://chi.bright-sky.click:80/joebk11/247812023/339971
-#EXTINF:-1 group-title="Dzieci",BBC CBEEBIES
-http://chi.bright-sky.click:80/joebk11/247812023/339972
-#EXTINF:-1 group-title="Dzieci",DISNEY CHANNEL
-http://chi.bright-sky.click:80/joebk11/247812023/339973
-#EXTINF:-1 group-title="Dzieci",DISNEY JUNIOR
-http://chi.bright-sky.click:80/joebk11/247812023/339974
-#EXTINF:-1 group-title="Dzieci",4FUN Dzieci
-http://chi.bright-sky.click:80/joebk11/247812023/339976
-#EXTINF:-1 group-title="Dzieci",CBEEBIES
-http://chi.bright-sky.click:80/joebk11/247812023/339980
-#EXTINF:-1 group-title="Dzieci",NICK
-http://chi.bright-sky.click:80/joebk11/247812023/339983
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_hd.png", TVP
+https://cdn-nvm-newyork.lolokoko.tv/TVPHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp1.png",TVP 1
+https://cdn-nvm-newyork.lolokoko.tv/TVP1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp2.png",TVP 2
+https://cdn-nvm-newyork.lolokoko.tv/TVP2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/republika_tv.png",TV Republika
+https://cdn-nvm-newyork.lolokoko.tv/TVREPUBLIKA.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/wpolsce.png",w Polsce PL
+https://cdn-nvm-newyork.lolokoko.tv/wpolscepl.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/wydarzenia_24.png",Wydarzenia 24
+https://cdn-nvm-newyork.lolokoko.tv/superstacja.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_news_polityka.png,Polsat News Polityka
+https://cdn-nvm-newyork.lolokoko.tv/polsatnewspolityka.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_info.png,TVP Info
+https://cdn-nvm-newyork.lolokoko.tv/TVPInfo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/wp.png", WP
+https://cdn-nvm-newyork.lolokoko.tv/wp1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn.png", TVN
+https://cdn-nvm-newyork.lolokoko.tv/TVN.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn_7.png",TVN 7
+https://cdn-nvm-newyork.lolokoko.tv/TVN7.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat.png",Polsat
+https://cdn-nvm-newyork.lolokoko.tv/Polsat.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat2.png",Polsat 2
+https://cdn-nvm-newyork.lolokoko.tv/Polsat2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tv_4.png",  TV 4
+https://cdn-nvm-newyork.lolokoko.tv/TV4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/antena.png", Antena
+https://cdn-nvm-newyork.lolokoko.tv/ANTENATV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/metro.png", Metro
+https://cdn-nvm-newyork.lolokoko.tv/METROTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nowa_tv.png", Nowa TV
+https://cdn-nvm-newyork.lolokoko.tv/NOWATV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tele_5.png",Tele 5
+https://cdn-nvm-newyork.lolokoko.tv/Tele5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/hbo.png",HBO
+https://cdn-nvm-newyork.lolokoko.tv/HBO.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/hbo2.png", HBO 2
+https://cdn-nvm-newyork.lolokoko.tv/HBO2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/hbo3.png",HBO 3",
+https://cdn-nvm-newyork.lolokoko.tv/HBO3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/ale_kino.png",Ale kino+
+https://cdn-nvm-newyork.lolokoko.tv/AleKino.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_domo.png",Canal+ Domo
+https://cdn-nvm-newyork.lolokoko.tv/domo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_dokument.png",Canal+ Dokument
+https://cdn-nvm-newyork.lolokoko.tv/canalplusdokument.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canalkuchnia.png",Canal+ Kuchnia
+https://cdn-nvm-newyork.lolokoko.tv/kuchniaplus.stream/playlist.m3u8   
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_family.png",Canal+ Family
+https://cdn-nvm-newyork.lolokoko.tv/CANALPLUSFAMILY.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_seriale.png",Canal+ Seriale
+https://cdn-nvm-newyork.lolokoko.tv/CANALPLUSSERIALE.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_film.png",Canal+ Film
+https://cdn-nvm-newyork.lolokoko.tv/CANALPLUSFILM.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_premium.png",Canal+ Premium
+https://cdn-nvm-newyork.lolokoko.tv/CANALPLUSHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/cinemax.png",Cinemax
+https://cdn-nvm-newyork.lolokoko.tv/CINEMAXHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/cinemax2.png",Cinemax 2
+https://cdn-nvm-newyork.lolokoko.tv/cinemaxcentraleurope2.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/red_carpet.png", Red Carpet
+https://cdn-nvm-newyork.lolokoko.tv/REDCARPET.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/amc.png",AMC
+https://cdn-nvm-newyork.lolokoko.tv/AMC.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/novela_tv.png", Novela TV
+https://cdn-nvm-newyork.lolokoko.tv/Novela.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/paramount_channel.png", Paramount Network
+https://cdn-nvm-newyork.lolokoko.tv/paramountchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tlc.png",      TLC
+https://cdn-nvm-newyork.lolokoko.tv/TLC.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/active_family.png", Active Family
+https://cdn-nvm-newyork.lolokoko.tv/ACTIVEFAMILY.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/epic_drama.png", Epic Drama
+https://cdn-nvm-newyork.lolokoko.tv/EPICDRAMA.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/axn.png",  AXN ",
+https://cdn-nvm-newyork.lolokoko.tv/AXNPolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/axn_white.png",AXN White
+https://cdn-nvm-newyork.lolokoko.tv/AXNWHITE.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/axn_black.png",AXN Black
+https://cdn-nvm-newyork.lolokoko.tv/AXNBLACK.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/axn_spin.png",AXN Spin
+https://cdn-nvm-newyork.lolokoko.tv/AXNSPIN.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/13_ulica.png", 13 Ulica
+https://cdn-nvm-newyork.lolokoko.tv/13ULICA.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tv_6.png", TV 6",
+https://cdn-nvm-newyork.lolokoko.tv/TV6.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/mtv_polska.png",MTV Polska
+https://cdn-nvm-newyork.lolokoko.tv/MTVPolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/kino_polska.png",Kino Polska
+https://cdn-nvm-newyork.lolokoko.tv/KINOPOLSKA.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/filmbox_arthouse.png",FilmBox Arthouse
+https://cdn-nvm-newyork.lolokoko.tv/FILMBOXARTHOUSE.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/filmbox_action.png",FilmBox Action
+https://cdn-nvm-newyork.lolokoko.tv/FILMBOXACTION.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/filmbox_premium.png",FilmBox Premium",
+https://cdn-nvm-newyork.lolokoko.tv/FILMBOXPREMIUM.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/filmbox_extra.png",FilmBox Extra
+https://cdn-nvm-newyork.lolokoko.tv/FILMBOXEXTRA.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/filmbox_family.png",FilmBox Family",
+https://cdn-nvm-newyork.lolokoko.tv/FILMBOXFAMILY.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/cmc.png", CMC",
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_rodzina.png",Polsat Rodzina
+https://cdn-nvm-newyork.lolokoko.tv/PolsatRodzina.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/dtx.png",     DTX",
+https://cdn-nvm-newyork.lolokoko.tv/DTX.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/ttv.png",     TTv
+https://cdn-nvm-newyork.lolokoko.tv/TTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn_fabula.png",TVN Fabu&#322;a
+https://cdn-nvm-newyork.lolokoko.tv/TVNFABULA.stream/playlist.m3u8
+  #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn_style.png",TVN Style
+https://cdn-nvm-newyork.lolokoko.tv/TVNStyle.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polonia1.png",Polonia 1",
+https://cdn-nvm-newyork.lolokoko.tv/POLONIA1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/wydarzenia_24.png",Wydarzenia 24",
+https://cdn-nvm-newyork.lolokoko.tv/SUPERSTACJA.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_historia.png",TVP Historia
+https://cdn-nvm-newyork.lolokoko.tv/TVPHistoria.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_kultura.png",TVP Kultura
+https://cdn-nvm-newyork.lolokoko.tv/TVPKultura.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_seriale.png",TVP Seriale
+https://cdn-nvm-newyork.lolokoko.tv/TVPSeriale.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_rozrywka.png", TVP Rozrywka
+https://cdn-nvm-newyork.lolokoko.tv/TVPRozrywka.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn_24.png", TVN 24",
+https://cdn-nvm-newyork.lolokoko.tv/TVN24.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn_24bis.png", TVN 24 BIs
+https://cdn-nvm-newyork.lolokoko.tv/TVN24BIS.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn_turbo.png",TVN Turbo",
+https://cdn-nvm-newyork.lolokoko.tv/TVNTURBO.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/motowizja.png",Motowizja
+https://cdn-nvm-newyork.lolokoko.tv/motowizja.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/warner_tv.png",Warner Tv
+https://cdn-nvm-newyork.lolokoko.tv/TNT.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/kino_tv.png",Kino Tv
+https://cdn-nvm-newyork.lolokoko.tv/FilmBox.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_film.png",Polsat Film",
+https://cdn-nvm-newyork.lolokoko.tv/PolsatFilm.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatnews.png",Polsat News
+https://cdn-nvm-newyork.lolokoko.tv/PolsatNews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatnews2.png",Polsat News 2",
+https://cdn-nvm-newyork.lolokoko.tv/PolsatNews2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_sport.png",TVP Sport",
+https://cdn-nvm-newyork.lolokoko.tv/TVPSport.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatsport.png",Polsat Sport",
+https://cdn-nvm-newyork.lolokoko.tv/PolsatSport.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tv_puls.png", Puls
+https://cdn-nvm-newyork.lolokoko.tv/TVPuls.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/puls_2.png",Puls 2",
+https://cdn-nvm-newyork.lolokoko.tv/TVPuls2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/trwam.png", Trwam",
+https://cdn-nvm-newyork.lolokoko.tv/TVTrwam.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/stopklatka.png",Stopklatka
+https://cdn-nvm-newyork.lolokoko.tv/StopklatkaTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp3.png",   TVP 3",
+https://cdn-nvm-newyork.lolokoko.tv/TVP3Warszawa.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/bbc_first.png",BBC First",
+https://cdn-nvm-newyork.lolokoko.tv/BBCHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/bbc_earth.png",BBC Earth",
+https://cdn-nvm-newyork.lolokoko.tv/bbcearth.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/bbc_brit.png",BBC Brit",
+https://cdn-nvm-newyork.lolokoko.tv/bbcbritpolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/bbc_lifestyle.png",BBC LifeStyle
+https://cdn-nvm-newyork.lolokoko.tv/bbclifestyle.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/cartoon_network.png",Cartoon Network
+https://cdn-nvm-newyork.lolokoko.tv/cartonnetwork.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/bbc_cbeebies.png",CBeebies
+https://cdn-nvm-newyork.lolokoko.tv/CBeebies.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_abc.png", TVP ABC",
+https://cdn-nvm-newyork.lolokoko.tv/TVPABC.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/minimini.png", Mini Mini+",
+https://cdn-nvm-newyork.lolokoko.tv/MINIMINI.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/disney_junior.png",Disney Junior",
+https://cdn-nvm-newyork.lolokoko.tv/DisneyJunior.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/disney_xd.png",Disney XD",
+https://cdn-nvm-newyork.lolokoko.tv/DisneyXD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nickelodeon.png",Nickelodeon
+https://cdn-nvm-newyork.lolokoko.tv/Nickelodeon.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nick_jr..png",Nick Jr.",
+https://cdn-nvm-newyork.lolokoko.tv/NickJr.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nicktoons.png",Nicktoons
+https://cdn-nvm-newyork.lolokoko.tv/Nicktoons.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/teletoon.png",Teletoon+",
+https://cdn-nvm-newyork.lolokoko.tv/Teletoon.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nuta_tv.png", Nuta Tv
+https://cdn-nvm-newyork.lolokoko.tv/nuta.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polo_tv.png",Polo Tv
+https://cdn-nvm-newyork.lolokoko.tv/PoloTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eska_tv.png", Eska Tv
+https://cdn-nvm-newyork.lolokoko.tv/EskaTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eska_tv_extra.png",Eska TV Extra
+https://cdn-nvm-newyork.lolokoko.tv/EskaTVExtra.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eska_rock_tv.png",Eska TV Rock
+https://cdn-nvm-newyork.lolokoko.tv/powertv.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/stars.tv.png", Stars Tv
+https://cdn-nvm-newyork.lolokoko.tv/STARSTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/bollywood.png", Bollywood",
+https://cdn-nvm-newyork.lolokoko.tv/Bollywood.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/zoom_tv.png",    Zoom Tv
+https://cdn-nvm-newyork.lolokoko.tv/ZOOMTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvs.png",   TVs
+https://cdn-nvm-newyork.lolokoko.tv/TVS.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_domo.png", Canal+ Domo",
+https://cdn-nvm-newyork.lolokoko.tv/domo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canalkuchnia.png", Canal+ Kuchnia
+https://cdn-nvm-newyork.lolokoko.tv/kuchniaplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/hgtv.png", HGTv
+https://cdn-nvm-newyork.lolokoko.tv/HGTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/home_tv.png", Home Tv
+https://cdn-nvm-newyork.lolokoko.tv/HOMETV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/history.png", History",
+https://cdn-nvm-newyork.lolokoko.tv/HISTORY.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/h2.png",History 2",
+https://cdn-nvm-newyork.lolokoko.tv/h2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/animal_planet.png",Animal Planet",
+https://cdn-nvm-newyork.lolokoko.tv/AnimalPlanet.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/national_geographic.png",National Geographic",
+https://cdn-nvm-newyork.lolokoko.tv/nationalgeographic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nat_geo_people.png", NatGeo People
+https://cdn-nvm-newyork.lolokoko.tv/natgeopeople.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nat_geo_wild.png", NatGeo Wild",
+https://cdn-nvm-newyork.lolokoko.tv/natgeowild.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/planete.png",Planete+",
+https://cdn-nvm-newyork.lolokoko.tv/PlanetePlus.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/fx_comedy.png",FX Comedy",
+https://cdn-nvm-newyork.lolokoko.tv/FOXCOMEDY.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/fx.png",   FX",
+https://cdn-nvm-newyork.lolokoko.tv/FOXPolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/comedycentral.png",Comedy Central",
+https://cdn-nvm-newyork.lolokoko.tv/comedycentralpolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_sport.png",Canal+ Sport",
+https://cdn-nvm-newyork.lolokoko.tv/canalsport1_trans.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_sport2.png",Canal+ Sport 2",
+https://cdn-nvm-newyork.lolokoko.tv/canalplussport2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_sport3.png",Canal+ Sport 3",
+https://cdn-nvm-newyork.lolokoko.tv/canalplussport3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_sport4.png",Canal+ Sport 4",
+https://cdn-nvm-newyork.lolokoko.tv/canalplussport4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_sport5.png",Canal+ Sport 5",
+https://cdn-nvm-newyork.lolokoko.tv/nsport_trans.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eurosport.png",EuroSport 1",
+https://cdn-nvm-newyork.lolokoko.tv/eurosport1.stream/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eurosport2.png",EuroSport 2",
+https://cdn-nvm-newyork.lolokoko.tv/eurosport2polska.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/extreme.png",Extreme Sports
+https://cdn-nvm-newyork.lolokoko.tv/extremesportchanell.stream/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eleven_sports_1.png",Eleven Sports 1",
+https://cdn-nvm-newyork.lolokoko.tv/eleven1_trans.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eleven_sports_2.png",Eleven Sports 2",
+https://cdn-nvm-newyork.lolokoko.tv/eleven2_trans.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eleven_sports_3.png",Eleven Sports 3",
+https://cdn-nvm-newyork.lolokoko.tv/eleven3_trans.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eleven_sports_4.png",Eleven Sports 4",
+https://cdn-nvm-newyork.lolokoko.tv/eleven4_trans.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/discovery.png",Discovery Channel",
+https://cdn-nvm-newyork.lolokoko.tv/discoverychannel.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/discovery_historia.png",Discovery Historia
+https://cdn-nvm-newyork.lolokoko.tv/discoveryhistoria.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/discovery_life.png",Discovery Life
+https://cdn-nvm-newyork.lolokoko.tv/discoverylife.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/discovery_science.png",Discovery Science
+https://cdn-nvm-newyork.lolokoko.tv/discoveryogo.jpgsience.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/da_vinci.png",Da Vinci",
+https://cdn-nvm-newyork.lolokoko.tv/davinci.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/food_network.png",Food Network
+https://cdn-nvm-newyork.lolokoko.tv/foodnetwork.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_crime.png",Polsat Crime
+https://cdn-nvm-newyork.lolokoko.tv/polsatcrimeinvest.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_cafe.png",Polsat Cafe
+https://cdn-nvm-newyork.lolokoko.tv/polsatcafe.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_comedy_extra.png",Polsat Comedy Extra
+https://cdn-nvm-newyork.lolokoko.tv/polsat_comedy_central.stream/playlist.m3u8  
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_doku.png",Polsat Doku",
+https://cdn-nvm-newyork.lolokoko.tv/polsatdoku.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_games.png",Polsat Games
+https://cdn-nvm-newyork.lolokoko.tv/polsatgames.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_music.png",Polsat Music",
+https://cdn-nvm-newyork.lolokoko.tv/polsatmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_play.png",Polsat Play",
+https://cdn-nvm-newyork.lolokoko.tv/polsatplay.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_seriale.png",Polsat Seriale
+https://cdn-nvm-newyork.lolokoko.tv/polsatromans.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatsportextra.png",Polsat Sport Extra
+https://cdn-nvm-newyork.lolokoko.tv/polsatsportextra.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatsportfight.png",Polsat Sport Fight",
+https://cdn-nvm-newyork.lolokoko.tv/sportfight_trans.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_sport_news.png",Polsat Sport News
+https://cdn-nvm-newyork.lolokoko.tv/polsatsportnews.stream/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatsportpremium1.png",Polsat Sport Premium 1",
+https://cdn-nvm-newyork.lolokoko.tv/polsatsportp1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatsportpremium2.png",Polsat Sport Premium 2",
+https://cdn-nvm-newyork.lolokoko.tv/polsatsportp2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_viasat_explore.png",Polsat Viasat Explore
+https://cdn-nvm-newyork.lolokoko.tv/viasatexplore.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_viasat_nature.png",Polsat Viasat Nature
+https://cdn-nvm-newyork.lolokoko.tv/viasatnature.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_viasat_history.png",Polsat Viasat History",
+https://cdn-nvm-newyork.lolokoko.tv/viasathistory.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/fightbox.png",FightBox",
+https://cdn-nvm-newyork.lolokoko.tv/fightbox.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/water_planet.png",Water Planet",
+https://cdn-nvm-newyork.lolokoko.tv/waterplanet.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/voxmusic_tv.png",Vox Music Tv
+https://cdn-nvm-newyork.lolokoko.tv/voxmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nickmusic.png",Nick Music",
+https://cdn-nvm-newyork.lolokoko.tv/nickmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/disco_polo_music.png",Disco Polo Music",
+https://cdn-nvm-newyork.lolokoko.tv/discopolomusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/cbs_reality.png",CBS Reality",
+https://cdn-nvm-newyork.lolokoko.tv/cbsreality.stream/playlist.m3u8 
+   #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/cbs_europa.png",CBS Europa
+https://cdn-nvm-newyork.lolokoko.tv/cbseuropa.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/4_fun_dance.png",4 Fun Dance
+https://cdn-nvm-newyork.lolokoko.tv/4fundance.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/4_fun_kids.png",4 Fun Kids
+https://cdn-nvm-newyork.lolokoko.tv/4funhits2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/4_fun.png",4 Fun Tv
+https://cdn-nvm-newyork.lolokoko.tv/4funtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvt.png",TVT",
+https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/truso_tv.png",Truso Tv
+https://stream.truso.tv/elblag/myStream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tv_jaslo.png",TV Jas&#322;o",
+https://cdn2.aztv.pl/hls/live_tvjaslo.stream.m3u8?conn_id=14013521122889531071",
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tv_regionalna.png",TV Regionalna
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/pogranicze.png",Pogranicze G&#322;ubczyce
+https://stream.elzappero.net/tvglubczyce.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/biznesowa.png",Telewizja Biznesowa
+https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/imperium.png",TV Imperium ",
+https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VAtxF7k.png",Radio Czw&#243;rka
+https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_polonia.png",TVP Polonia
+https://cdn-nvm-newyork.lolokoko.tv/TVPPolonia.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_world.png",TVP World",
+https://cdn-nvm-newyork.lolokoko.tv/TVPWorld.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_nauka.png",TVP Nauka
+https://cdn-nvm-newyork.lolokoko.tv/TVPNauka.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nuta_gold.png",Nuta Gold
+https://cdn-nvm-newyork.lolokoko.tv/GoldTV.stream/playlist.m3u8  
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_kobieta.png",TVP Kobieta
+https://cdn-nvm-newyork.lolokoko.tv/tvp_kobieta.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_alfa.png",Alfa TVP
+https://cdn-nvm-newyork.lolokoko.tv/tvp_alfa.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/travel.png",Travel Channel
+https://cdn-nvm-newyork.lolokoko.tv/travel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tv_torun.png",TV Toru&#324; ",
+https://mediaserwer.tvk.torun.pl/live/ngrp:tvk.stream_mobile/chunklist_w222650670_b3596000.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tbn.png", TBN ",
+https://cdn-nvm-newyork.lolokoko.tv/tbn.stream/playlist.m3u8	 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/e__entertainment.png",E! Entertainment",
+https://cdn-nvm-newyork.lolokoko.tv/epolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/strefa_tv.png",Strefa Tv
+https://stream.sferatv.pl/sferatvlive/live.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/fashiontv.png",Fashion Tv
+https://cdn-nvm-newyork.lolokoko.tv/wcf.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/dla_ciebie.png",dla Ciebie
+https://6034e09794f07.streamlock.net:443/tv/dlaCiebieTv/playlist.m3u8
