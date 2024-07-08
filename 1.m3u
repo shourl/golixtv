@@ -1,364 +1,362 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_hd.png", TVP
-https://cdn-nvm-newyork.lolokoko.tv/TVPHD.stream/playlist.m3u8
+https://89.187.167.247/TVPHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp1.png",TVP 1
-https://cdn-nvm-newyork.lolokoko.tv/TVP1.stream/playlist.m3u8
+https://89.187.167.247/TVP1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp2.png",TVP 2
-https://cdn-nvm-newyork.lolokoko.tv/TVP2.stream/playlist.m3u8
+https://89.187.167.247/TVP2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/republika_tv.png",TV Republika
-https://cdn-nvm-newyork.lolokoko.tv/TVREPUBLIKA.stream/playlist.m3u8
+https://89.187.167.247/TVREPUBLIKA.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/wpolsce.png",w Polsce PL
-https://cdn-nvm-newyork.lolokoko.tv/wpolscepl.stream/playlist.m3u8
+https://89.187.167.247/wpolscepl.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/wydarzenia_24.png",Wydarzenia 24
-https://cdn-nvm-newyork.lolokoko.tv/superstacja.stream/playlist.m3u8
+https://89.187.167.247/superstacja.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_news_polityka.png,Polsat News Polityka
-https://cdn-nvm-newyork.lolokoko.tv/polsatnewspolityka.stream/playlist.m3u8
+https://89.187.167.247/polsatnewspolityka.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_info.png,TVP Info
-https://cdn-nvm-newyork.lolokoko.tv/TVPInfo.stream/playlist.m3u8
+https://89.187.167.247/TVPInfo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/wp.png", WP
-https://cdn-nvm-newyork.lolokoko.tv/wp1.stream/playlist.m3u8
+https://89.187.167.247/wp1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn.png", TVN
-https://cdn-nvm-newyork.lolokoko.tv/TVN.stream/playlist.m3u8
+https://89.187.167.247/TVN.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn_7.png",TVN 7
-https://cdn-nvm-newyork.lolokoko.tv/TVN7.stream/playlist.m3u8
+https://89.187.167.247/TVN7.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat.png",Polsat
-https://cdn-nvm-newyork.lolokoko.tv/Polsat.stream/playlist.m3u8
+https://89.187.167.247/Polsat.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat2.png",Polsat 2
-https://cdn-nvm-newyork.lolokoko.tv/Polsat2.stream/playlist.m3u8
+https://89.187.167.247/Polsat2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tv_4.png",  TV 4
-https://cdn-nvm-newyork.lolokoko.tv/TV4.stream/playlist.m3u8
+https://89.187.167.247/TV4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/antena.png", Antena
-https://cdn-nvm-newyork.lolokoko.tv/ANTENATV.stream/playlist.m3u8
+https://89.187.167.247/ANTENATV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/metro.png", Metro
-https://cdn-nvm-newyork.lolokoko.tv/METROTV.stream/playlist.m3u8
+https://89.187.167.247/METROTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nowa_tv.png", Nowa TV
-https://cdn-nvm-newyork.lolokoko.tv/NOWATV.stream/playlist.m3u8
+https://89.187.167.247/NOWATV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tele_5.png",Tele 5
-https://cdn-nvm-newyork.lolokoko.tv/Tele5.stream/playlist.m3u8
+https://89.187.167.247/Tele5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/hbo.png",HBO
-https://cdn-nvm-newyork.lolokoko.tv/HBO.stream/playlist.m3u8
+https://89.187.167.247/HBO.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/hbo2.png", HBO 2
-https://cdn-nvm-newyork.lolokoko.tv/HBO2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/hbo3.png",HBO 3",
-https://cdn-nvm-newyork.lolokoko.tv/HBO3.stream/playlist.m3u8
+https://89.187.167.247/HBO2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/hbo3.png",HBO 3
+https://89.187.167.247/HBO3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/ale_kino.png",Ale kino+
-https://cdn-nvm-newyork.lolokoko.tv/AleKino.stream/playlist.m3u8
+https://89.187.167.247/AleKino.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_domo.png",Canal+ Domo
-https://cdn-nvm-newyork.lolokoko.tv/domo.stream/playlist.m3u8
+https://89.187.167.247/domo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_dokument.png",Canal+ Dokument
-https://cdn-nvm-newyork.lolokoko.tv/canalplusdokument.stream/playlist.m3u8 
+https://89.187.167.247/canalplusdokument.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canalkuchnia.png",Canal+ Kuchnia
-https://cdn-nvm-newyork.lolokoko.tv/kuchniaplus.stream/playlist.m3u8   
+https://89.187.167.247/kuchniaplus.stream/playlist.m3u8   
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_family.png",Canal+ Family
-https://cdn-nvm-newyork.lolokoko.tv/CANALPLUSFAMILY.stream/playlist.m3u8
+https://89.187.167.247/CANALPLUSFAMILY.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_seriale.png",Canal+ Seriale
-https://cdn-nvm-newyork.lolokoko.tv/CANALPLUSSERIALE.stream/playlist.m3u8
+https://89.187.167.247/CANALPLUSSERIALE.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_film.png",Canal+ Film
-https://cdn-nvm-newyork.lolokoko.tv/CANALPLUSFILM.stream/playlist.m3u8
+https://89.187.167.247/CANALPLUSFILM.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_premium.png",Canal+ Premium
-https://cdn-nvm-newyork.lolokoko.tv/CANALPLUSHD.stream/playlist.m3u8
+https://89.187.167.247/CANALPLUSHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/cinemax.png",Cinemax
-https://cdn-nvm-newyork.lolokoko.tv/CINEMAXHD.stream/playlist.m3u8
+https://89.187.167.247/CINEMAXHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/cinemax2.png",Cinemax 2
-https://cdn-nvm-newyork.lolokoko.tv/cinemaxcentraleurope2.stream/playlist.m3u8 
+https://89.187.167.247/cinemaxcentraleurope2.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/red_carpet.png", Red Carpet
-https://cdn-nvm-newyork.lolokoko.tv/REDCARPET.stream/playlist.m3u8
+https://89.187.167.247/REDCARPET.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/amc.png",AMC
-https://cdn-nvm-newyork.lolokoko.tv/AMC.stream/playlist.m3u8
+https://89.187.167.247/AMC.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/novela_tv.png", Novela TV
-https://cdn-nvm-newyork.lolokoko.tv/Novela.stream/playlist.m3u8
+https://89.187.167.247/Novela.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/paramount_channel.png", Paramount Network
-https://cdn-nvm-newyork.lolokoko.tv/paramountchannel.stream/playlist.m3u8
+https://89.187.167.247/paramountchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tlc.png",      TLC
-https://cdn-nvm-newyork.lolokoko.tv/TLC.stream/playlist.m3u8
+https://89.187.167.247/TLC.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/active_family.png", Active Family
-https://cdn-nvm-newyork.lolokoko.tv/ACTIVEFAMILY.stream/playlist.m3u8
+https://89.187.167.247/ACTIVEFAMILY.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/epic_drama.png", Epic Drama
-https://cdn-nvm-newyork.lolokoko.tv/EPICDRAMA.stream/playlist.m3u8
+https://89.187.167.247/EPICDRAMA.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/axn.png",  AXN ",
-https://cdn-nvm-newyork.lolokoko.tv/AXNPolska.stream/playlist.m3u8
+https://89.187.167.247/AXNPolska.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/axn_white.png",AXN White
-https://cdn-nvm-newyork.lolokoko.tv/AXNWHITE.stream/playlist.m3u8
+https://89.187.167.247/AXNWHITE.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/axn_black.png",AXN Black
-https://cdn-nvm-newyork.lolokoko.tv/AXNBLACK.stream/playlist.m3u8
+https://89.187.167.247/AXNBLACK.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/axn_spin.png",AXN Spin
-https://cdn-nvm-newyork.lolokoko.tv/AXNSPIN.stream/playlist.m3u8
+https://89.187.167.247/AXNSPIN.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/13_ulica.png", 13 Ulica
-https://cdn-nvm-newyork.lolokoko.tv/13ULICA.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tv_6.png", TV 6",
-https://cdn-nvm-newyork.lolokoko.tv/TV6.stream/playlist.m3u8
+https://89.187.167.247/13ULICA.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tv_6.png", TV 6
+https://89.187.167.247/TV6.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/mtv_polska.png",MTV Polska
-https://cdn-nvm-newyork.lolokoko.tv/MTVPolska.stream/playlist.m3u8
+https://89.187.167.247/MTVPolska.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/kino_polska.png",Kino Polska
-https://cdn-nvm-newyork.lolokoko.tv/KINOPOLSKA.stream/playlist.m3u8
+https://89.187.167.247/KINOPOLSKA.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/filmbox_arthouse.png",FilmBox Arthouse
-https://cdn-nvm-newyork.lolokoko.tv/FILMBOXARTHOUSE.stream/playlist.m3u8
+https://89.187.167.247/FILMBOXARTHOUSE.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/filmbox_action.png",FilmBox Action
-https://cdn-nvm-newyork.lolokoko.tv/FILMBOXACTION.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/filmbox_premium.png",FilmBox Premium",
-https://cdn-nvm-newyork.lolokoko.tv/FILMBOXPREMIUM.stream/playlist.m3u8
+https://89.187.167.247/FILMBOXACTION.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/filmbox_premium.png",FilmBox Premium
+https://89.187.167.247/FILMBOXPREMIUM.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/filmbox_extra.png",FilmBox Extra
-https://cdn-nvm-newyork.lolokoko.tv/FILMBOXEXTRA.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/filmbox_family.png",FilmBox Family",
-https://cdn-nvm-newyork.lolokoko.tv/FILMBOXFAMILY.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/cmc.png", CMC",
+https://89.187.167.247/FILMBOXEXTRA.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/filmbox_family.png",FilmBox Family
+https://89.187.167.247/FILMBOXFAMILY.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/cmc.png", CMc
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_rodzina.png",Polsat Rodzina
-https://cdn-nvm-newyork.lolokoko.tv/PolsatRodzina.stream/playlist.m3u8
+https://89.187.167.247/PolsatRodzina.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/dtx.png",     DTX",
-https://cdn-nvm-newyork.lolokoko.tv/DTX.stream/playlist.m3u8
+https://89.187.167.247/DTX.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/ttv.png",     TTv
-https://cdn-nvm-newyork.lolokoko.tv/TTV.stream/playlist.m3u8
+https://89.187.167.247/TTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn_fabula.png",TVN Fabu&#322;a
-https://cdn-nvm-newyork.lolokoko.tv/TVNFABULA.stream/playlist.m3u8
+https://89.187.167.247/TVNFABULA.stream/playlist.m3u8
   #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn_style.png",TVN Style
-https://cdn-nvm-newyork.lolokoko.tv/TVNStyle.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polonia1.png",Polonia 1",
-https://cdn-nvm-newyork.lolokoko.tv/POLONIA1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/wydarzenia_24.png",Wydarzenia 24",
-https://cdn-nvm-newyork.lolokoko.tv/SUPERSTACJA.stream/playlist.m3u8
+https://89.187.167.247/TVNStyle.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polonia1.png",Polonia 1
+https://89.187.167.247/POLONIA1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/wydarzenia_24.png",Wydarzenia 24
+https://89.187.167.247/SUPERSTACJA.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_historia.png",TVP Historia
-https://cdn-nvm-newyork.lolokoko.tv/TVPHistoria.stream/playlist.m3u8
+https://89.187.167.247/TVPHistoria.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_kultura.png",TVP Kultura
-https://cdn-nvm-newyork.lolokoko.tv/TVPKultura.stream/playlist.m3u8
+https://89.187.167.247/TVPKultura.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_seriale.png",TVP Seriale
-https://cdn-nvm-newyork.lolokoko.tv/TVPSeriale.stream/playlist.m3u8
+https://89.187.167.247/TVPSeriale.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_rozrywka.png", TVP Rozrywka
-https://cdn-nvm-newyork.lolokoko.tv/TVPRozrywka.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn_24.png", TVN 24",
-https://cdn-nvm-newyork.lolokoko.tv/TVN24.stream/playlist.m3u8
+https://89.187.167.247/TVPRozrywka.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn_24.png", TVN 24
+https://89.187.167.247/TVN24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn_24bis.png", TVN 24 BIs
-https://cdn-nvm-newyork.lolokoko.tv/TVN24BIS.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn_turbo.png",TVN Turbo",
-https://cdn-nvm-newyork.lolokoko.tv/TVNTURBO.stream/playlist.m3u8
+https://89.187.167.247/TVN24BIS.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn_turbo.png",TVN Turbo
+https://89.187.167.247/TVNTURBO.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/motowizja.png",Motowizja
-https://cdn-nvm-newyork.lolokoko.tv/motowizja.stream/playlist.m3u8
+https://89.187.167.247/motowizja.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/warner_tv.png",Warner Tv
-https://cdn-nvm-newyork.lolokoko.tv/TNT.stream/playlist.m3u8
+https://89.187.167.247/TNT.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/kino_tv.png",Kino Tv
-https://cdn-nvm-newyork.lolokoko.tv/FilmBox.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_film.png",Polsat Film",
-https://cdn-nvm-newyork.lolokoko.tv/PolsatFilm.stream/playlist.m3u8
+https://89.187.167.247/FilmBox.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_film.png",Polsat Film
+https://89.187.167.247/PolsatFilm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatnews.png",Polsat News
-https://cdn-nvm-newyork.lolokoko.tv/PolsatNews.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatnews2.png",Polsat News 2",
-https://cdn-nvm-newyork.lolokoko.tv/PolsatNews2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_sport.png",TVP Sport",
-https://cdn-nvm-newyork.lolokoko.tv/TVPSport.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatsport.png",Polsat Sport",
-https://cdn-nvm-newyork.lolokoko.tv/PolsatSport.stream/playlist.m3u8
+https://89.187.167.247/PolsatNews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatnews2.png",Polsat News 2
+https://89.187.167.247/PolsatNews2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_sport.png",TVP Sport
+https://89.187.167.247/TVPSport.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatsport.png",Polsat Sport
+https://89.187.167.247/PolsatSport.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tv_puls.png", Puls
-https://cdn-nvm-newyork.lolokoko.tv/TVPuls.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/puls_2.png",Puls 2",
-https://cdn-nvm-newyork.lolokoko.tv/TVPuls2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/trwam.png", Trwam",
-https://cdn-nvm-newyork.lolokoko.tv/TVTrwam.stream/playlist.m3u8
+https://89.187.167.247/TVPuls.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/puls_2.png",Puls 2
+https://89.187.167.247/TVPuls2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/trwam.png", Trwam
+https://89.187.167.247/TVTrwam.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/stopklatka.png",Stopklatka
-https://cdn-nvm-newyork.lolokoko.tv/StopklatkaTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp3.png",   TVP 3",
-https://cdn-nvm-newyork.lolokoko.tv/TVP3Warszawa.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/bbc_first.png",BBC First",
-https://cdn-nvm-newyork.lolokoko.tv/BBCHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/bbc_earth.png",BBC Earth",
-https://cdn-nvm-newyork.lolokoko.tv/bbcearth.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/bbc_brit.png",BBC Brit",
-https://cdn-nvm-newyork.lolokoko.tv/bbcbritpolska.stream/playlist.m3u8
+https://89.187.167.247/StopklatkaTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp3.png",   TVP 3
+https://89.187.167.247/TVP3Warszawa.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/bbc_first.png",BBC First
+https://89.187.167.247/BBCHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/bbc_earth.png",BBC Earth
+https://89.187.167.247/bbcearth.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/bbc_brit.png",BBC Brit
+https://89.187.167.247/bbcbritpolska.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/bbc_lifestyle.png",BBC LifeStyle
-https://cdn-nvm-newyork.lolokoko.tv/bbclifestyle.stream/playlist.m3u8
+https://89.187.167.247/bbclifestyle.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/cartoon_network.png",Cartoon Network
-https://cdn-nvm-newyork.lolokoko.tv/cartonnetwork.stream/playlist.m3u8
+https://89.187.167.247/cartonnetwork.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/bbc_cbeebies.png",CBeebies
-https://cdn-nvm-newyork.lolokoko.tv/CBeebies.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_abc.png", TVP ABC",
-https://cdn-nvm-newyork.lolokoko.tv/TVPABC.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/minimini.png", Mini Mini+",
-https://cdn-nvm-newyork.lolokoko.tv/MINIMINI.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/disney_junior.png",Disney Junior",
-https://cdn-nvm-newyork.lolokoko.tv/DisneyJunior.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/disney_xd.png",Disney XD",
-https://cdn-nvm-newyork.lolokoko.tv/DisneyXD.stream/playlist.m3u8
+https://89.187.167.247/CBeebies.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_abc.png", TVP ABC
+https://89.187.167.247/TVPABC.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/minimini.png", Mini Mini+
+https://89.187.167.247/MINIMINI.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/disney_junior.png",Disney Junior
+https://89.187.167.247/DisneyJunior.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/disney_xd.png",Disney XD
+https://89.187.167.247/DisneyXD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nickelodeon.png",Nickelodeon
-https://cdn-nvm-newyork.lolokoko.tv/Nickelodeon.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nick_jr..png",Nick Jr.",
-https://cdn-nvm-newyork.lolokoko.tv/NickJr.stream/playlist.m3u8
+https://89.187.167.247/Nickelodeon.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nick_jr..png",Nick Jr.
+https://89.187.167.247/NickJr.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nicktoons.png",Nicktoons
-https://cdn-nvm-newyork.lolokoko.tv/Nicktoons.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/teletoon.png",Teletoon+",
-https://cdn-nvm-newyork.lolokoko.tv/Teletoon.stream/playlist.m3u8 
+https://89.187.167.247/Nicktoons.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/teletoon.png",Teletoon+
+https://89.187.167.247/Teletoon.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nuta_tv.png", Nuta Tv
-https://cdn-nvm-newyork.lolokoko.tv/nuta.stream/playlist.m3u8
+https://89.187.167.247/nuta.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polo_tv.png",Polo Tv
-https://cdn-nvm-newyork.lolokoko.tv/PoloTV.stream/playlist.m3u8
+https://89.187.167.247/PoloTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eska_tv.png", Eska Tv
-https://cdn-nvm-newyork.lolokoko.tv/EskaTV.stream/playlist.m3u8
+https://89.187.167.247/EskaTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eska_tv_extra.png",Eska TV Extra
-https://cdn-nvm-newyork.lolokoko.tv/EskaTVExtra.stream/playlist.m3u8
+https://89.187.167.247/EskaTVExtra.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eska_rock_tv.png",Eska TV Rock
-https://cdn-nvm-newyork.lolokoko.tv/powertv.stream/playlist.m3u8 
+https://89.187.167.247/powertv.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/stars.tv.png", Stars Tv
-https://cdn-nvm-newyork.lolokoko.tv/STARSTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/bollywood.png", Bollywood",
-https://cdn-nvm-newyork.lolokoko.tv/Bollywood.stream/playlist.m3u8
+https://89.187.167.247/STARSTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/zoom_tv.png",    Zoom Tv
-https://cdn-nvm-newyork.lolokoko.tv/ZOOMTV.stream/playlist.m3u8
+https://89.187.167.247/ZOOMTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvs.png",   TVs
-https://cdn-nvm-newyork.lolokoko.tv/TVS.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_domo.png", Canal+ Domo",
-https://cdn-nvm-newyork.lolokoko.tv/domo.stream/playlist.m3u8
+https://89.187.167.247/TVS.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_domo.png", Canal+ Domo
+https://89.187.167.247/domo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canalkuchnia.png", Canal+ Kuchnia
-https://cdn-nvm-newyork.lolokoko.tv/kuchniaplus.stream/playlist.m3u8
+https://89.187.167.247/kuchniaplus.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/hgtv.png", HGTv
-https://cdn-nvm-newyork.lolokoko.tv/HGTV.stream/playlist.m3u8
+https://89.187.167.247/HGTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/home_tv.png", Home Tv
-https://cdn-nvm-newyork.lolokoko.tv/HOMETV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/history.png", History",
-https://cdn-nvm-newyork.lolokoko.tv/HISTORY.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/h2.png",History 2",
-https://cdn-nvm-newyork.lolokoko.tv/h2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/animal_planet.png",Animal Planet",
-https://cdn-nvm-newyork.lolokoko.tv/AnimalPlanet.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/national_geographic.png",National Geographic",
-https://cdn-nvm-newyork.lolokoko.tv/nationalgeographic.stream/playlist.m3u8
+https://89.187.167.247/HOMETV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/history.png", History
+https://89.187.167.247/HISTORY.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/h2.png",History 2
+https://89.187.167.247/h2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/animal_planet.png",Animal Planet
+https://89.187.167.247/AnimalPlanet.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/national_geographic.png",National Geographic
+https://89.187.167.247/nationalgeographic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nat_geo_people.png", NatGeo People
-https://cdn-nvm-newyork.lolokoko.tv/natgeopeople.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nat_geo_wild.png", NatGeo Wild",
-https://cdn-nvm-newyork.lolokoko.tv/natgeowild.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/planete.png",Planete+",
-https://cdn-nvm-newyork.lolokoko.tv/PlanetePlus.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/fx_comedy.png",FX Comedy",
-https://cdn-nvm-newyork.lolokoko.tv/FOXCOMEDY.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/fx.png",   FX",
-https://cdn-nvm-newyork.lolokoko.tv/FOXPolska.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/comedycentral.png",Comedy Central",
-https://cdn-nvm-newyork.lolokoko.tv/comedycentralpolska.stream/playlist.m3u8
+https://89.187.167.247/natgeopeople.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nat_geo_wild.png", NatGeo Wild
+https://89.187.167.247/natgeowild.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/planete.png",Planete+
+https://89.187.167.247/PlanetePlus.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/fx_comedy.png",FX Comedy
+https://89.187.167.247/FOXCOMEDY.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/fx.png",   FX
+https://89.187.167.247/FOXPolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/comedycentral.png",Comedy Central
+https://89.187.167.247/comedycentralpolska.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_sport.png",Canal+ Sport",
-https://cdn-nvm-newyork.lolokoko.tv/canalsport1_trans.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_sport2.png",Canal+ Sport 2",
-https://cdn-nvm-newyork.lolokoko.tv/canalplussport2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_sport3.png",Canal+ Sport 3",
-https://cdn-nvm-newyork.lolokoko.tv/canalplussport3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_sport4.png",Canal+ Sport 4",
-https://cdn-nvm-newyork.lolokoko.tv/canalplussport4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_sport5.png",Canal+ Sport 5",
-https://cdn-nvm-newyork.lolokoko.tv/nsport_trans.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eurosport.png",EuroSport 1",
-https://cdn-nvm-newyork.lolokoko.tv/eurosport1.stream/playlist.m3u8	
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eurosport2.png",EuroSport 2",
-https://cdn-nvm-newyork.lolokoko.tv/eurosport2polska.stream/playlist.m3u8
+https://89.187.167.247/canalsport1_trans.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_sport2.png",Canal+ Sport 2
+https://89.187.167.247/canalplussport2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_sport3.png",Canal+ Sport 3
+https://89.187.167.247/canalplussport3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_sport4.png",Canal+ Sport 4
+https://89.187.167.247/canalplussport4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/canal_sport5.png",Canal+ Sport 5
+https://89.187.167.247/nsport_trans.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eurosport.png",EuroSport 1
+https://89.187.167.247/eurosport1.stream/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eurosport2.png",EuroSport 2
+https://89.187.167.247/eurosport2polska.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/extreme.png",Extreme Sports
-https://cdn-nvm-newyork.lolokoko.tv/extremesportchanell.stream/playlist.m3u8	
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eleven_sports_1.png",Eleven Sports 1",
-https://cdn-nvm-newyork.lolokoko.tv/eleven1_trans.stream/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eleven_sports_2.png",Eleven Sports 2",
-https://cdn-nvm-newyork.lolokoko.tv/eleven2_trans.stream/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eleven_sports_3.png",Eleven Sports 3",
-https://cdn-nvm-newyork.lolokoko.tv/eleven3_trans.stream/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eleven_sports_4.png",Eleven Sports 4",
-https://cdn-nvm-newyork.lolokoko.tv/eleven4_trans.stream/playlist.m3u8 
+https://89.187.167.247/extremesportchanell.stream/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eleven_sports_1.png",Eleven Sports 1
+https://89.187.167.247/eleven1_trans.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eleven_sports_2.png",Eleven Sports 2
+https://89.187.167.247/eleven2_trans.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eleven_sports_3.png",Eleven Sports 3
+https://89.187.167.247/eleven3_trans.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/eleven_sports_4.png",Eleven Sports 4
+https://89.187.167.247/eleven4_trans.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/discovery.png",Discovery Channel",
-https://cdn-nvm-newyork.lolokoko.tv/discoverychannel.stream/playlist.m3u8 
+https://89.187.167.247/discoverychannel.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/discovery_historia.png",Discovery Historia
-https://cdn-nvm-newyork.lolokoko.tv/discoveryhistoria.stream/playlist.m3u8 
+https://89.187.167.247/discoveryhistoria.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/discovery_life.png",Discovery Life
-https://cdn-nvm-newyork.lolokoko.tv/discoverylife.stream/playlist.m3u8 
+https://89.187.167.247/discoverylife.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/discovery_science.png",Discovery Science
-https://cdn-nvm-newyork.lolokoko.tv/discoveryogo.jpgsience.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/da_vinci.png",Da Vinci",
-https://cdn-nvm-newyork.lolokoko.tv/davinci.stream/playlist.m3u8
+https://89.187.167.247/discoveryogo.jpgsience.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/da_vinci.png",Da Vinci
+https://89.187.167.247/davinci.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/food_network.png",Food Network
-https://cdn-nvm-newyork.lolokoko.tv/foodnetwork.stream/playlist.m3u8
+https://89.187.167.247/foodnetwork.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_crime.png",Polsat Crime
-https://cdn-nvm-newyork.lolokoko.tv/polsatcrimeinvest.stream/playlist.m3u8
+https://89.187.167.247/polsatcrimeinvest.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_cafe.png",Polsat Cafe
-https://cdn-nvm-newyork.lolokoko.tv/polsatcafe.stream/playlist.m3u8
+https://89.187.167.247/polsatcafe.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_comedy_extra.png",Polsat Comedy Extra
-https://cdn-nvm-newyork.lolokoko.tv/polsat_comedy_central.stream/playlist.m3u8  
+https://89.187.167.247/polsat_comedy_central.stream/playlist.m3u8  
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_doku.png",Polsat Doku",
-https://cdn-nvm-newyork.lolokoko.tv/polsatdoku.stream/playlist.m3u8 
+https://89.187.167.247/polsatdoku.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_games.png",Polsat Games
-https://cdn-nvm-newyork.lolokoko.tv/polsatgames.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_music.png",Polsat Music",
-https://cdn-nvm-newyork.lolokoko.tv/polsatmusic.stream/playlist.m3u8
+https://89.187.167.247/polsatgames.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_music.png",Polsat Music
+https://89.187.167.247/polsatmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_play.png",Polsat Play",
-https://cdn-nvm-newyork.lolokoko.tv/polsatplay.stream/playlist.m3u8
+https://89.187.167.247/polsatplay.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_seriale.png",Polsat Seriale
-https://cdn-nvm-newyork.lolokoko.tv/polsatromans.stream/playlist.m3u8
+https://89.187.167.247/polsatromans.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatsportextra.png",Polsat Sport Extra
-https://cdn-nvm-newyork.lolokoko.tv/polsatsportextra.stream/playlist.m3u8
+https://89.187.167.247/polsatsportextra.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatsportfight.png",Polsat Sport Fight",
-https://cdn-nvm-newyork.lolokoko.tv/sportfight_trans.stream/playlist.m3u8
+https://89.187.167.247/sportfight_trans.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_sport_news.png",Polsat Sport News
-https://cdn-nvm-newyork.lolokoko.tv/polsatsportnews.stream/playlist.m3u8	
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatsportpremium1.png",Polsat Sport Premium 1",
-https://cdn-nvm-newyork.lolokoko.tv/polsatsportp1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatsportpremium2.png",Polsat Sport Premium 2",
-https://cdn-nvm-newyork.lolokoko.tv/polsatsportp2.stream/playlist.m3u8
+https://89.187.167.247/polsatsportnews.stream/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatsportpremium1.png",Polsat Sport Premium 1
+https://89.187.167.247/polsatsportp1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsatsportpremium2.png",Polsat Sport Premium 2
+https://89.187.167.247/polsatsportp2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_viasat_explore.png",Polsat Viasat Explore
-https://cdn-nvm-newyork.lolokoko.tv/viasatexplore.stream/playlist.m3u8
+https://89.187.167.247/viasatexplore.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_viasat_nature.png",Polsat Viasat Nature
-https://cdn-nvm-newyork.lolokoko.tv/viasatnature.stream/playlist.m3u8
+https://89.187.167.247/viasatnature.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat_viasat_history.png",Polsat Viasat History",
-https://cdn-nvm-newyork.lolokoko.tv/viasathistory.stream/playlist.m3u8
+https://89.187.167.247/viasathistory.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/fightbox.png",FightBox",
-https://cdn-nvm-newyork.lolokoko.tv/fightbox.stream/playlist.m3u8
+https://89.187.167.247/fightbox.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/water_planet.png",Water Planet",
-https://cdn-nvm-newyork.lolokoko.tv/waterplanet.stream/playlist.m3u8
+https://89.187.167.247/waterplanet.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/voxmusic_tv.png",Vox Music Tv
-https://cdn-nvm-newyork.lolokoko.tv/voxmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nickmusic.png",Nick Music",
-https://cdn-nvm-newyork.lolokoko.tv/nickmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/disco_polo_music.png",Disco Polo Music",
-https://cdn-nvm-newyork.lolokoko.tv/discopolomusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/cbs_reality.png",CBS Reality",
-https://cdn-nvm-newyork.lolokoko.tv/cbsreality.stream/playlist.m3u8 
+https://89.187.167.247/voxmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nickmusic.png",Nick Music
+https://89.187.167.247/nickmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/disco_polo_music.png",Disco Polo Music
+https://89.187.167.247/discopolomusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/cbs_reality.png",CBS Reality
+https://89.187.167.247/cbsreality.stream/playlist.m3u8 
    #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/cbs_europa.png",CBS Europa
-https://cdn-nvm-newyork.lolokoko.tv/cbseuropa.stream/playlist.m3u8 
+https://89.187.167.247/cbseuropa.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/4_fun_dance.png",4 Fun Dance
-https://cdn-nvm-newyork.lolokoko.tv/4fundance.stream/playlist.m3u8 
+https://89.187.167.247/4fundance.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/4_fun_kids.png",4 Fun Kids
-https://cdn-nvm-newyork.lolokoko.tv/4funhits2.stream/playlist.m3u8
+https://89.187.167.247/4funhits2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/4_fun.png",4 Fun Tv
-https://cdn-nvm-newyork.lolokoko.tv/4funtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvt.png",TVT",
+https://89.187.167.247/4funtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvt.png",TVT
 https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/truso_tv.png",Truso Tv
 https://stream.truso.tv/elblag/myStream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tv_jaslo.png",TV Jas&#322;o",
-https://cdn2.aztv.pl/hls/live_tvjaslo.stream.m3u8?conn_id=14013521122889531071",
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tv_jaslo.png",TV Jas&#322;o
+https://cdn2.aztv.pl/hls/live_tvjaslo.stream.m3u8?conn_id=14013521122889531071
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tv_regionalna.png",TV Regionalna
 https://tvreg.klemit.net/regionalna/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/pogranicze.png",Pogranicze G&#322;ubczyce
 https://stream.elzappero.net/tvglubczyce.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/biznesowa.png",Telewizja Biznesowa
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/imperium.png",TV Imperium ",
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/imperium.png",TV Imperium
 https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VAtxF7k.png",Radio Czw&#243;rka
 https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_polonia.png",TVP Polonia
-https://cdn-nvm-newyork.lolokoko.tv/TVPPolonia.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_world.png",TVP World",
-https://cdn-nvm-newyork.lolokoko.tv/TVPWorld.stream/playlist.m3u8 
+https://89.187.167.247/TVPPolonia.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_world.png",TVP World
+https://89.187.167.247/TVPWorld.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_nauka.png",TVP Nauka
-https://cdn-nvm-newyork.lolokoko.tv/TVPNauka.stream/playlist.m3u8
+https://89.187.167.247/TVPNauka.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/nuta_gold.png",Nuta Gold
-https://cdn-nvm-newyork.lolokoko.tv/GoldTV.stream/playlist.m3u8  
+https://89.187.167.247/GoldTV.stream/playlist.m3u8  
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_kobieta.png",TVP Kobieta
-https://cdn-nvm-newyork.lolokoko.tv/tvp_kobieta.stream/playlist.m3u8 
+https://89.187.167.247/tvp_kobieta.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvp_alfa.png",Alfa TVP
-https://cdn-nvm-newyork.lolokoko.tv/tvp_alfa.stream/playlist.m3u8 
+https://89.187.167.247/tvp_alfa.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/travel.png",Travel Channel
-https://cdn-nvm-newyork.lolokoko.tv/travel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tv_torun.png",TV Toru&#324; ",
+https://89.187.167.247/travel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tv_torun.png",TV Toru&#324;
 https://mediaserwer.tvk.torun.pl/live/ngrp:tvk.stream_mobile/chunklist_w222650670_b3596000.m3u8 
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tbn.png", TBN ",
-https://cdn-nvm-newyork.lolokoko.tv/tbn.stream/playlist.m3u8	 
-#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/e__entertainment.png",E! Entertainment",
-https://cdn-nvm-newyork.lolokoko.tv/epolska.stream/playlist.m3u8
+https://89.187.167.247/tbn.stream/playlist.m3u8	 
+#EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/e__entertainment.png",E! Entertainment
+https://89.187.167.247/epolska.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/strefa_tv.png",Strefa Tv
 https://stream.sferatv.pl/sferatvlive/live.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/fashiontv.png",Fashion Tv
-https://cdn-nvm-newyork.lolokoko.tv/wcf.stream/playlist.m3u8
+https://89.187.167.247/wcf.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/dla_ciebie.png",dla Ciebie
 https://6034e09794f07.streamlock.net:443/tv/dlaCiebieTv/playlist.m3u8
