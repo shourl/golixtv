@@ -6,6 +6,88 @@
   <title>Internetowa Telewizja</title>
   <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet">
   <script src="https://vjs.zencdn.net/7.15.4/video.min.js"></script>
+
+  <!--------------------------------- windowh --------------------------------->
+  
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .popup {
+            display: none;
+            position: fixed;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            padding: 20px;
+            background-color: white;
+            border: 2px solid #333;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            z-index: 1000;
+            animation: fadeIn 0.5s ease-in-out;
+        }
+
+        .overlay {
+            display: none;
+            position: fixed;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 999;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .popup.show, .overlay.show {
+            display: block;
+        }
+
+        .close-btn {
+            margin-top: 10px;
+            padding: 5px 10px;
+            background-color: #333;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="overlay" id="overlay"></div>
+    <div class="popup" id="popup">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TrwXxQG/unlock.png" alt="unlock" border="0"></a>
+        <a href="/dontmiddleclickme/tiudhg9rudghbsiuodf9bdhrufyjnguhfjhy" onclick="return popitup('https://89.187.167.247/')"
+        >Odblokuj</a>
+<script>
+function popitup(url) {
+        newwindow=window.open(url,'name','height=500,width=550');
+        if (window.focus) {newwindow.focus()}
+        return false;
+    }
+</script>
+        <button class="close-btn" onclick="closePopup()">Zamknij</button>
+    </div>
+
+    <script>
+        window.onload = function() {
+            document.getElementById('overlay').classList.add('show');
+            document.getElementById('popup').classList.add('show');
+        };
+
+        function closePopup() {
+            document.getElementById('overlay').classList.remove('show');
+            document.getElementById('popup').classList.remove('show');
+        }
+    </script>
+  
+  <!--------------------------------- windowh --------------------------------->
+  
   <style>
     body, html {
       margin: 0;
